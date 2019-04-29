@@ -1,9 +1,9 @@
 # Plane Evacuation Simulation
-## Visual
 ![PIC](https://github.com/Giffina/Capstone/blob/master/Assets/capstone.png)
-## Installation
 
 ## Description
+This simulation is for 
+## Installation
 ## Usage
 ## Future
 
